@@ -12,15 +12,15 @@ this procedure is also simple.
   ## 2.open the forked repo
       open command prompt
       use
-      'cd desktop'
+      `cd desktop`
       to come to desktop.
       use 
-      /*git clone <url>*/
+      git clone <url>
       url is the url from the cloned repo in your profile
           
   ## 3.Now the repository is downloaded to your local repository
       use
-      /*cd <name>*/
+      cd <name>
       name is the name that y used if none then use verbose-waffle
       
   ## 4.Now use <editor> Contributions.md
@@ -32,23 +32,24 @@ this procedure is also simple.
       
       save your file and close the editor.
       
-  ## 6.After that check /*git status*/
+  ## 6.After that check   git status
       it shows you modified Contributors.md
       
   ## 7.use command
-     /*git add <file name>*/ 
+     git add <file name>
      to add the file to staging area.
      here the file name is Contributors.md
      
      Now check git status it gives new file contributors.md
     
   ## 8.use command
-      /*git commit*/ 
+      git commit
+      
       to add the file into ur local repository.
   
-  Now check /*git status*/ it gives nothing to be commited
+  Now check git status it gives nothing to be commited
   
-  you can skip the steps 7. and 8. by using git commit -a -m "/*commit message*/
+  you can skip the steps 7. and 8. by using git commit -a -m "commit message"
   
   ## 9.now to push the changes made in local repository to remote repository use git push -u origin master
   
