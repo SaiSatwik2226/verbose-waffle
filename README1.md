@@ -12,7 +12,7 @@ this procedure is also simple.
   ## 2.open the forked repo
       open command prompt
       use
-      /*cd desktop*/
+      'cd desktop'
       to come to desktop.
       use 
       /*git clone <url>*/
