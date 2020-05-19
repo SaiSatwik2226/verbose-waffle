@@ -1,9 +1,10 @@
 # Anyone can edit this file
+----
 
 # If you dont have a Git
 [git](https://git-scm.com/downloads) in your PC download and install it.
 the procedure is very simple click on next and install with the given conditions approved.
-
+----
 ## Next create an account in [Github](https://github.com/) using your mail address.
 this procedure is also simple.
 
