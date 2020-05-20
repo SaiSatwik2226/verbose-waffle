@@ -2,8 +2,9 @@
 ----
 
 # If you dont have a Git
-<img alt="Git" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fplugins.jenkins.io%2Fgit%2F&psig=AOvVaw26SJHIK8UN27Atnis8zhZq&ust=1590063863780000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNiH29C3wukCFQAAAAAdAAAAABAH" width="100">
-[Git!](https://git-scm.com/downloads)
+|<a href="git.md"><img alt="Git" src="https://git-scm.com/images/logos/logomark-orange@2x.png" width="100"></a>|
+|---|
+![Git](https://git-scm.com/downloads)
 
 
 [git](https://git-scm.com/downloads) in your PC download and install it.
