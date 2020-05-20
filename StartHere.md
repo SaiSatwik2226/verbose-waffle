@@ -18,15 +18,15 @@ this procedure is also simple.
 ## 2.open the forked repo,
 open command prompt,
 use,
-      `cd desktop`
+       cd desktop
 to come to desktop.
 use,
-      `git clone <url>`
+      git clone <url>
 url is the url from the cloned repo in your profile.
 
 ## 3.Now the repository is downloaded to your local repository,
 use,
-     `cd <name>`
+     cd <name>
 name is the name that y used if none then use verbose-waffle.
 
 ## 4.Now use <editor> Contributions.md,
@@ -34,7 +34,7 @@ you need to have an editor such as [Atom](https://atom.io/) or [Sublime Text](ht
 (download if needed).
 
 ## 5.after opening the file add your name.
-     `[name](url)`
+     [name](url)
 
 save your file and close the editor.
 
@@ -42,7 +42,7 @@ save your file and close the editor.
 it shows you modified Contributors.md .
 
 ## 7.use command
-     `git add <file name>``
+     git add <file name>
 to add the file to staging area.
 here the file name is Contributors.md .
 
