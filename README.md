@@ -1,7 +1,7 @@
 
-# lets begin contributing....
+# Let's begin Contributing....
 ----
 
-if you want to start, start now
+If you want to start, start now.
 
-  # go to [README1](README1.md)
+  # *go to [README1](README1.md)*
