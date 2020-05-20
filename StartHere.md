@@ -27,7 +27,7 @@ url is the url from the cloned repo in your profile.
 ## 3.Now the repository is downloaded to your local repository,
 use,
      cd <name>
-name is the name that y used if none then use verbose-waffle.
+name is the name that y used if none then use First-contributors-choice.
 
 ## 4.Now use <editor> Contributions.md,
 you need to have an editor such as [Atom](https://atom.io/) or [Sublime Text](https://www.sublimetext.com/3)
@@ -49,18 +49,21 @@ here the file name is Contributors.md .
 Now check git status it gives new file contributors.md .
 
 ## 8.use command,
-     `git commit`
+     git commit
 
 to add the file into ur local repository.
 Now check git status it gives nothing to be commited.
 
-you can skip the steps 7. and 8. by using `git commit -a -m "commit message"` ,
+you can skip the steps 7. and 8. by using,
+     git commit -a -m "commit message" ,
 
 ## 9.now to push the changes made in local repository to remote repository use,
-    `git push -u origin master`
+     git push -u origin master
 
 now checkout the file in your remote repo you will see the changes.
 
 ## 10.to add it to this file create a new pull request which is visible at the top and create a new pull request.
 
+
 YOU can use Github Now.
+:smiley::blush::love_you_gesture:
