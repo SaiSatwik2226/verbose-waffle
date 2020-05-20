@@ -2,7 +2,7 @@
 ----
 
 # If you dont have a Git
-<img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100">
+<img alt="Git" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fplugins.jenkins.io%2Fgit%2F&psig=AOvVaw26SJHIK8UN27Atnis8zhZq&ust=1590063863780000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNiH29C3wukCFQAAAAAdAAAAABAH" width="100">
 [Git!](https://git-scm.com/downloads)
 
 
