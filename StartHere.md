@@ -3,8 +3,7 @@
 
 # If you dont have a Git
 <img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100">
-|---|
-|[Git](https://git-scm.com/downloads)|
+[Git](https://git-scm.com/downloads)
 
 
 [git](https://git-scm.com/downloads) in your PC download and install it.
