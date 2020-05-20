@@ -2,9 +2,9 @@
 ----
 
 # If you dont have a Git
-|<img alt="Git" src="https://git-scm.com/images/logos/logomark-orange@2x.png" width="100"></a>|
+|<a/><img alt="Git" src="https://git-scm.com/images/logos/logomark-orange@2x.png" width="100"></a>|
 |---|
-![Git](https://git-scm.com/downloads)
+|[Git](https://git-scm.com/downloads)|
 
 
 [git](https://git-scm.com/downloads) in your PC download and install it.
